@@ -1,2 +1,1 @@
-# tues_it
-Demonstation repository for IT classes.
+LINK TO GITHUB PAGES CV WEBSITE: https://p2wnoob.github.io/CV
